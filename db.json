@@ -1062,7 +1062,7 @@
     {
       "userId": 21,
       "activityId": 16,
-      "isCancelled": false,
+      "isCancelled": true,
       "id": 41
     },
     {
@@ -1106,12 +1106,6 @@
       "activityId": 9,
       "isCancelled": false,
       "id": 48
-    },
-    {
-      "userId": 17,
-      "activityId": 9,
-      "isCancelled": false,
-      "id": 49
     }
   ],
   "locations": [
