@@ -1,0 +1,1345 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alex",
+      "email": "springfield0329@gmail.com",
+      "password": "123456",
+      "img": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/avatar/avatar01.png?raw=true",
+      "favoriteSports": [
+        "攀岩",
+        "衝浪",
+        "棒球"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Steve",
+      "email": "steve5566@gmail.com",
+      "password": "123",
+      "img": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/avatar/Avatar10.jpg?raw=true",
+      "favoriteSports": [
+        "排球",
+        "羽球",
+        "桌球 "
+      ]
+    },
+    {
+      "id": 3,
+      "name": "June",
+      "email": "june@gmail.com",
+      "password": "456",
+      "img": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/avatar/avatar02.png?raw=true",
+      "favoriteSports": [
+        "街舞",
+        "SUP"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Annie",
+      "email": "annie@gmail.com",
+      "password": "456123abc",
+      "img": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/avatar/avatar03.png?raw=true",
+      "favoriteSports": [
+        "排球",
+        "潛水",
+        "劍道",
+        "跳舞",
+        "棒球"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Emily",
+      "email": "emily@gmail.com",
+      "password": "654",
+      "img": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/avatar/AvatarAI1.jpg?raw=true",
+      "favoriteSports": [
+        "游泳",
+        "有氧運動",
+        "瑜珈"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tom",
+      "email": "tom5566@gmail.com",
+      "password": "tomtom",
+      "img": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/avatar/Avatar11.jpg?raw=true",
+      "favoriteSports": [
+        "足球",
+        "籃球",
+        "棒球"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Amy",
+      "email": "amy123@gmail.com",
+      "password": "987",
+      "img": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/avatar/AvatarAI2.jpg?raw=true",
+      "favoriteSports": [
+        "攀岩",
+        "游泳"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Kevin",
+      "email": "kevin_chen@gmail.com",
+      "password": "111222333",
+      "img": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/avatar/Avatar12.jpg?raw=true",
+      "favoriteSports": [
+        "羽球",
+        "慢跑",
+        "游泳"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Linda",
+      "email": "linda123@gmail.com",
+      "password": "123",
+      "img": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/avatar/Avatar04.jpg?raw=true",
+      "favoriteSports": [
+        "舞蹈",
+        "游泳",
+        "瑜珈"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Ben",
+      "email": "ben@gmail.com",
+      "password": "456",
+      "img": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/avatar/Avatar13.jpg?raw=true",
+      "favoriteSports": [
+        "登山",
+        "足球",
+        "網球"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Sophia",
+      "email": "sophia5566@gmail.com",
+      "password": "sophia",
+      "img": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/avatar/Avatar05.jpg?raw=true",
+      "favoriteSports": [
+        "游泳",
+        "跑步",
+        "籃球"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "David",
+      "email": "david5566@gmail.com",
+      "password": "david123",
+      "img": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/avatar/Avatar14.jpg?raw=true",
+      "favoriteSports": [
+        "潛水",
+        "衝浪",
+        "溜冰"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Julie",
+      "email": "julie@gmail.com",
+      "password": "julie123",
+      "img": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/avatar/Avatar06.jpg?raw=true",
+      "favoriteSports": [
+        "瑜珈",
+        "有氧運動",
+        "游泳"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Alex",
+      "email": "alex123@gmail.com",
+      "password": "alex456",
+      "img": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/avatar/Avatar17.jpg?raw=true",
+      "favoriteSports": [
+        "跳舞",
+        "瑜珈",
+        "攀岩"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Grace",
+      "email": "grace@gmail.com",
+      "password": "abc123",
+      "img": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/avatar/Avatar09.jpg?raw=true",
+      "favoriteSports": [
+        "滑雪",
+        "游泳",
+        "跑步",
+        "攀岩"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Leo",
+      "email": "leo5566@gmail.com",
+      "password": "leo123",
+      "img": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/avatar/Avatar20.jpg?raw=true",
+      "favoriteSports": [
+        "羽球",
+        "桌球",
+        "足球"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Chris",
+      "email": "chris@gmail.com",
+      "password": "chris456",
+      "img": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/avatar/Avatar18.jpg?raw=true",
+      "favoriteSports": [
+        "游泳",
+        "籃球",
+        "羽毛球"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Hannah",
+      "email": "hannah@gmail.com",
+      "password": "hannah789",
+      "img": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/avatar/Avatar07.jpg?raw=true",
+      "favoriteSports": [
+        "跑步",
+        "瑜珈",
+        "棒球"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "David",
+      "email": "david@gmail.com",
+      "password": "david123",
+      "img": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/avatar/Avatar19.jpg?raw=true",
+      "favoriteSports": [
+        "排球",
+        "衝浪",
+        "攀岩",
+        "棒球"
+      ]
+    },
+    {
+      "email": "jack@mail.com",
+      "password": "$2a$10$mURk.y7uEPA8aZt1NNgY0ecYKucXe/UdZ94RB2Bw5AUs5SdExcUmy",
+      "name": "Jack",
+      "favoriteSports": [
+        "攀岩",
+        "划船",
+        "田徑",
+        "衝浪"
+      ],
+      "img": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/avatar/Avatar21.jpg?raw=true",
+      "id": 20
+    },
+    {
+      "email": "dev@dev.com",
+      "password": "$2a$10$mURk.y7uEPA8aZt1NNgY0ecYKucXe/UdZ94RB2Bw5AUs5SdExcUmy",
+      "name": "Jack",
+      "favoriteSports": [
+        "抱石",
+        "划船",
+        "跑步",
+        "空手道",
+        "滑板"
+      ],
+      "img": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/avatar/Avatar09.jpg?raw=true",
+      "id": 21
+    }
+  ],
+  "activities": [
+    {
+      "id": 1,
+      "title": "宜蘭外澳衝浪",
+      "userId": "20",
+      "city": "宜蘭縣",
+      "district": "頭城鎮",
+      "address": "261宜蘭縣頭城鎮濱海路二段6號",
+      "location": [
+        24.878043,
+        121.8415
+      ],
+      "mainImg": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity01.jpg?raw=true",
+      "imgs": [
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity0101.jpg?raw=true",
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity0102.jpg?raw=true",
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity0103.jpg?raw=true"
+      ],
+      "description": "這個周末一起去宜蘭外澳衝浪吧！",
+      "content": "<h2>如果你正在尋找一個有趣且能夠鍛煉身體的運動項目，那麼打羽球就是你不容錯過的選擇。</h2><h2>這項運動<span style=\"color: rgb(0, 138, 0);\">不僅能夠鍛鍊身體，還能增強腦力、協調能力</span>和精細動作技巧。</h2><h2><br></h2><h2>我們的揪團將會到一個<span style=\"color: rgb(230, 0, 0);\">高素質的羽球場</span>，提供完善的設施。任何人都能在這裡找到適合自己的運動水平的對手與夥伴。</h2><h2><br></h2><h2>在運動之後，我們也可以一起享用美味的午餐，讓大家能夠在輕鬆愉悅的氛圍中放鬆身心。</h2><h2>如果你對打羽球感興趣，不妨加入我們的揪團，一起體驗這項激動人心的運動。我們期待著您的加入！</h2>",
+      "date": "2023-03-20",
+      "startTime": {
+        "time": "07:30"
+      },
+      "expiryDate": "",
+      "maxJoinNum": 8,
+      "costPerPerson": 1000,
+      "paymentMethod": "各付各的",
+      "status": "",
+      "tags": [
+        "戶外活動",
+        "游泳",
+        "宜蘭",
+        "衝浪",
+        "水上活動"
+      ],
+      "groupId": "",
+      "updateDate": "2023-03-13",
+      "isCancelled": false
+    },
+    {
+      "id": 2,
+      "title": "台灣第一高山玉山登山",
+      "userId": "2",
+      "mainImg": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity02.png?raw=true",
+      "imgs": [
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity0201.jpg?raw=true",
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity0202.jpg?raw=true",
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity0203.jpg?raw=true"
+      ],
+      "city": "南投縣",
+      "district": "信義鄉",
+      "address": "605嘉義縣阿里山鄉中山村6鄰排雲101號",
+      "location": [
+        23.469883,
+        120.956807
+      ],
+      "description": "來挑戰台灣最高峰吧！",
+      "content": "<h2>玉山山峰海拔3952公尺，是台灣最高峰，也是眾多登山客的夢想目標之一。</h2><h2>在這次登山揪團中，我們將會攀登西峰、南峰、北峰，體驗玉山群峰的風光，以及挑戰自我。</h2><h2><br></h2><h2>這是一項高強度的運動，需要有足夠的體能和心理準備。但是，我們的團隊將會有經驗豐富的專業嚮導帶領，確保大家的安全和順利登頂。</h2><h2><br></h2><h2>一起挑戰台灣最高峰吧！我們期待著您的加入。</h2>",
+      "date": "2023-04-01",
+      "startTime": {
+        "time": "04:00"
+      },
+      "expiryDate": "",
+      "maxJoinNum": 10,
+      "costPerPerson": 3000,
+      "paymentMethod": "各付各的",
+      "tags": [
+        "戶外活動",
+        "登山",
+        "自然風景",
+        "挑戰",
+        "攀岩"
+      ],
+      "groupId": "",
+      "updateDate": "2023-03-16",
+      "isCancelled": false
+    },
+    {
+      "id": 3,
+      "title": "週末橋下籃球小聚",
+      "userId": "20",
+      "mainImg": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity03.jpg?raw=true",
+      "imgs": [
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity0301.jpg?raw=true",
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity0302.jpg?raw=true",
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity0303.jpg?raw=true"
+      ],
+      "city": "臺北市",
+      "district": "松山區",
+      "address": "105台北市松山區南京東路四段10號",
+      "location": [
+        25.051434,
+        121.552293
+      ],
+      "description": "想一起來打籃球嗎？快來報名參加這個週末的橋下籃球小聚吧！",
+      "content": "這次活動我們將在信義區某個橋下的籃球場一起打球，讓大家盡情投籃、暢快奔跑。參加活動的人數限定在10人以內，請大家務必準時到場。",
+      "date": "2023-03-21",
+      "startTime": {
+        "time": "14:00"
+      },
+      "maxJoinNum": 10,
+      "costPerPerson": 0,
+      "paymentMethod": "我請客",
+      "tags": [
+        "籃球",
+        "橋下籃球",
+        "運動",
+        "戶外活動",
+        "團隊運動"
+      ],
+      "groupId": "",
+      "updateDate": "2023-03-14",
+      "isCancelled": false
+    },
+    {
+      "id": 4,
+      "title": "台灣室內抱石之旅",
+      "userId": "13",
+      "mainImg": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity04.jpg?raw=true",
+      "imgs": [
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity0401.jpg?raw=true",
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity0402.jpg?raw=true",
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity0403.jpg?raw=true"
+      ],
+      "city": "臺北市",
+      "district": "萬華區",
+      "address": "108台北市萬華區大理街149號",
+      "location": [
+        25.034027,
+        121.497107
+      ],
+      "description": "挑戰室內抱石，體驗攀岩的刺激與挑戰感",
+      "content": "這次的室內抱石之旅帶你一窺攀岩的世界，挑戰自己的身心極限，尋找自我突破的樂趣。在室內環境下進行抱石，不受天氣影響，讓你可以隨時體驗到攀岩的樂趣與挑戰。在南投縣的這個場館，提供了多樣化的攀岩路線，讓您從初學者到進階者都可以找到適合自己的路線，並且設備齊全、安全有保障。",
+      "date": "2023-03-21",
+      "startTime": {
+        "time": "10:00"
+      },
+      "maxJoinNum": 8,
+      "costPerPerson": 2500,
+      "paymentMethod": "各付各的",
+      "tags": [
+        "室內抱石",
+        "攀岩",
+        "運動",
+        "台北市",
+        "室內運動"
+      ],
+      "groupId": "",
+      "updateDate": "2023-03-12",
+      "isCancelled": false
+    },
+    {
+      "id": 5,
+      "title": "室內游泳聚會",
+      "userId": "1",
+      "mainImg": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity05.jpg?raw=true",
+      "imgs": [
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity0501.jpg?raw=true",
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity0502.jpg?raw=true",
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity0503.jpg?raw=true"
+      ],
+      "city": "臺北市",
+      "district": "信義區",
+      "address": "106台北市大安區和平東路一段162號",
+      "location": [
+        25.024938,
+        121.526144
+      ],
+      "description": "一個讓您暢快游泳的聚會！",
+      "content": "這次聚會讓您可以在舒適的室內游泳池中盡情游泳，享受水中的樂趣，並且認識喜愛游泳的朋友，一起分享游泳的技巧與心得。",
+      "date": "2023-04-08",
+      "startTime": {
+        "time": "14:00"
+      },
+      "maxJoinNum": 10,
+      "costPerPerson": 500,
+      "paymentMethod": "我請客",
+      "tags": [
+        "游泳",
+        "聚會",
+        "水中活動",
+        "社交活動",
+        "室內運動"
+      ],
+      "groupId": "",
+      "updateDate": "2023-03-11",
+      "isCancelled": false
+    },
+    {
+      "id": 6,
+      "title": "單車日行千里",
+      "userId": "14",
+      "mainImg": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity06.jpg?raw=true",
+      "imgs": [
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity0601.jpg?raw=true",
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity0602.jpg?raw=true",
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity0603.jpg?raw=true"
+      ],
+      "city": "新北市",
+      "district": "三峽區",
+      "address": "新北市三峽區大學路100號",
+      "location": [
+        24.94545,
+        121.373392
+      ],
+      "description": "一起騎單車，享受風景與運動的樂趣吧！",
+      "content": "這趟單車旅程我們將從三峽出發，騎行至淡水，期間將經過風景優美的大湖公園、新店溪生態公園等知名景點。途中還有豐富的美食可以品嚐，邀請您一同加入，共同探索台灣美景！",
+      "date": "2023-03-19",
+      "startTime": {
+        "time": "09:00"
+      },
+      "maxJoinNum": 10,
+      "costPerPerson": 500,
+      "paymentMethod": "我請客",
+      "tags": [
+        "單車",
+        "運動",
+        "自行車",
+        "三峽區",
+        "戶外活動"
+      ],
+      "groupId": "",
+      "updateDate": "2023-03-16",
+      "isCancelled": false
+    },
+    {
+      "id": 7,
+      "title": "城市路跑聚會",
+      "userId": "4",
+      "mainImg": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity07.jpg?raw=true",
+      "imgs": [
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity0701.jpg?raw=true",
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity0702.jpg?raw=true",
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity0703.jpg?raw=true"
+      ],
+      "city": "高雄市",
+      "district": "鹽埕區",
+      "address": "803高雄市鹽埕區中正四路",
+      "location": [
+        22.624888,
+        120.288419
+      ],
+      "description": "來參加我們的城市路跑聚會，與跑者們一起練習，增加體能，還可以拓展社交圈！",
+      "content": "這次聚會將從信義區的市中心開始，沿著河濱跑道往松山區方向前進，距離約5公里左右，結束後可以在附近的咖啡店享受一杯咖啡或是茶，一起聊聊跑步經驗與分享。",
+      "date": "2023-04-10",
+      "startTime": {
+        "time": "08:00"
+      },
+      "maxJoinNum": 20,
+      "costPerPerson": 0,
+      "paymentMethod": "各付各的",
+      "tags": [
+        "城市路跑",
+        "路跑",
+        "有氧運動",
+        "戶外活動",
+        "跑步"
+      ],
+      "groupId": "",
+      "updateDate": "2023-03-14",
+      "isCancelled": false
+    },
+    {
+      "id": 8,
+      "title": "揪團打排球",
+      "userId": "5",
+      "mainImg": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity08.jpg?raw=true",
+      "imgs": [
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity0801.jpg?raw=true",
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity0802.jpg?raw=true",
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity0803.jpg?raw=true"
+      ],
+      "city": "新北市",
+      "district": "新莊區",
+      "address": "新北市新莊區和興街66號",
+      "location": [
+        25.041232,
+        121.446323
+      ],
+      "description": "一起來揪團打排球，消耗熱量、增加運動量、認識新朋友！",
+      "content": "本次活動時間為2小時，場地為台北市某大型排球場。參加者需要自備球拍，場地和排球均會提供。在活動中，我們會組成隊伍進行較為緊湊的比賽，讓大家更有動力。同時也會有專業的排球教練在場，提供技術指導和建議，讓大家更能提升自己的水平。歡迎初學者和老手都一同參加，我們會根據程度進行分組，確保每個人都有適合自己的對手。",
+      "date": "2023-03-25",
+      "startTime": {
+        "time": "10:00"
+      },
+      "maxJoinNum": 16,
+      "costPerPerson": 300,
+      "paymentMethod": "各付各的",
+      "tags": [
+        "排球",
+        "揪團",
+        "運動",
+        "團隊運動",
+        "室內運動"
+      ],
+      "groupId": "",
+      "updateDate": "2023-03-15",
+      "isCancelled": false
+    },
+    {
+      "id": 9,
+      "title": "揪團大魯閣棒球比賽",
+      "userId": "4",
+      "mainImg": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity09.jpg?raw=true",
+      "imgs": [
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity0901.jpg?raw=true",
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity0902.jpg?raw=true",
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity0903.jpg?raw=true"
+      ],
+      "city": "臺北市",
+      "district": "萬華區",
+      "address": "108 台北市萬華區峨眉街52號8樓",
+      "location": [
+        25.043766,
+        121.505044
+      ],
+      "description": "這次揪團希望能找到志同道合的棒球愛好者，一起在美麗的戶外球場上盡情揮灑，享受運動樂趣。",
+      "content": "比賽方式為五局三勝制，比賽過程中將有專業裁判進行裁判。比賽結束後，我們還會一起享用美味的烤肉及啤酒，歡迎大家一同參加！",
+      "date": "2023-03-19",
+      "startTime": {
+        "time": "13:00"
+      },
+      "maxJoinNum": 16,
+      "costPerPerson": 500,
+      "paymentMethod": "現場付款",
+      "tags": [
+        "棒球",
+        "戶外活動",
+        "室內運動",
+        "經典賽",
+        "競賽"
+      ],
+      "groupId": "",
+      "updateDate": "2023-03-16",
+      "isCancelled": false
+    },
+    {
+      "id": 10,
+      "title": "國標舞學習班",
+      "userId": "5",
+      "mainImg": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity10.jpg?raw=true",
+      "imgs": [
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity1001.jpg?raw=true",
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity1002.jpg?raw=true",
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity1003.jpg?raw=true"
+      ],
+      "city": "臺中市",
+      "district": "大里區",
+      "address": "412台中市大里區",
+      "location": [
+        24.09967,
+        120.683569
+      ],
+      "description": "想要成為舞池上的焦點嗎？快來參加我們的國標舞學習班吧！",
+      "content": "我們的國標舞學習班由資深專業舞蹈老師授課，課程涵蓋初、中、高三個等級，適合從未接觸過國標舞，到已有一定基礎的學員參加。課程內容包括了華爾滋、探戈、恰恰、牛仔、快四和慢三等多種舞種，並且透過基本功訓練和技巧指導，幫助學員逐步提升表演水平，享受跳舞的樂趣。",
+      "date": "2023-03-25",
+      "startTime": {
+        "time": "19:00"
+      },
+      "maxJoinNum": 20,
+      "costPerPerson": 2000,
+      "paymentMethod": "各付各的",
+      "tags": [
+        "國標舞",
+        "學習班",
+        "初學者",
+        "進階",
+        "舞蹈課程"
+      ],
+      "groupId": "",
+      "updateDate": "2023-03-10",
+      "isCancelled": false
+    },
+    {
+      "id": 11,
+      "title": "鐵人三項挑戰",
+      "userId": "20",
+      "mainImg": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity11.jpg?raw=true",
+      "imgs": [
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity1101.jpg?raw=true",
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity1102.jpg?raw=true",
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity1103.jpg?raw=true"
+      ],
+      "city": "南投縣",
+      "district": "魚池鄉",
+      "address": "555南投縣魚池鄉日月潭",
+      "location": [
+        23.859288,
+        120.916135
+      ],
+      "description": "參加鐵人三項賽事，挑戰極限，征服自己！",
+      "content": "這次的鐵人三項比賽包括游泳、自行車和跑步三項競賽，跨越澎湖環島，長達 226 公里的賽程，讓您可以挑戰自我，征服極限！",
+      "date": "2023-03-29",
+      "startTime": {
+        "time": "06:00"
+      },
+      "maxJoinNum": 8,
+      "costPerPerson": 5000,
+      "paymentMethod": "我請客",
+      "tags": [
+        "鐵人三項",
+        "田徑",
+        "游泳",
+        "自行車",
+        "跑步"
+      ],
+      "groupId": "",
+      "updateDate": "2023-03-14",
+      "isCancelled": false
+    },
+    {
+      "id": 12,
+      "title": "溜冰聚會",
+      "userId": "4",
+      "mainImg": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity12.jpg?raw=true",
+      "imgs": [
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity1201.jpg?raw=true",
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity1202.jpg?raw=true",
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity1203.jpg?raw=true"
+      ],
+      "city": "臺北市",
+      "district": "松山區",
+      "address": "105037台北市松山區南京東路四段2號",
+      "location": [
+        25.051497,
+        121.549328
+      ],
+      "description": "邀請大家一起在冬日裡享受溜冰的樂趣！",
+      "content": "歡迎大家一起來參加本次的溜冰聚會！我們會在室內的溜冰場裡進行活動，場地有專業的冰鞋租借服務，新手也可以放心參加。我們將會有專業的教練帶領大家進行簡單的技巧練習，之後大家可以自由地在場地上盡情滑行，享受冬日的樂趣。希望大家都能參加，和大家一起創造美好回憶！",
+      "date": "2023-03-23",
+      "startTime": {
+        "time": "14:00"
+      },
+      "maxJoinNum": 20,
+      "costPerPerson": 300,
+      "paymentMethod": "各付各的",
+      "tags": [
+        "溜冰",
+        "冬日活動",
+        "室內運動",
+        "社交",
+        "台北市"
+      ],
+      "groupId": "",
+      "updateDate": "2023-03-14",
+      "isCancelled": false
+    },
+    {
+      "id": 13,
+      "title": "瑜珈晨間實境課程",
+      "userId": "2",
+      "mainImg": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity13.jpg?raw=true",
+      "imgs": [
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity1301.jpg?raw=true",
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity1302.jpg?raw=true",
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity1303.jpg?raw=true"
+      ],
+      "city": "花蓮縣",
+      "district": "花蓮市",
+      "address": "970花蓮縣花蓮市中華路144號",
+      "location": [
+        23.976724,
+        121.604153
+      ],
+      "description": "一起來感受早晨瑜珈的清新氣息吧！",
+      "content": "這堂瑜珈課程是一堂融合陰陽課程的晨間瑜珈。適合想要在忙碌生活中，找到自己的平靜、放鬆，舒緩壓力、增強體力的你，透過瑜珈幫你慢下腳步，提高身體的靈敏度和協調性，陶冶內心的柔軟度。",
+      "date": "2023-04-15",
+      "startTime": {
+        "time": "06:00"
+      },
+      "maxJoinNum": 10,
+      "costPerPerson": 500,
+      "paymentMethod": "我請客",
+      "tags": [
+        "瑜珈",
+        "晨間",
+        "健康",
+        "放鬆"
+      ],
+      "groupId": "",
+      "updateDate": "2023-03-13",
+      "isCancelled": false
+    },
+    {
+      "id": 14,
+      "title": "潛入清澈海底-墾丁潛水之旅",
+      "userId": "17",
+      "mainImg": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity14.png?raw=true",
+      "imgs": [
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity1401.jpg?raw=true",
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity1402.jpg?raw=true",
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity1403.jpg?raw=true"
+      ],
+      "city": "屏東縣",
+      "district": "恆春鎮",
+      "address": "屏東縣恆春鎮南灣里南灣路32號",
+      "location": [
+        21.939626,
+        120.797199
+      ],
+      "description": "享受清涼的海底世界，潛水新手也適合參加",
+      "content": "本次潛水之旅將帶您深入墾丁海域，欣賞豐富的海洋生態和美麗的珊瑚，透過專業的導師引領，即使是初學者也可以放心體驗。潛水地點附近設施完善，潛水前會有詳細的說明和教學。",
+      "date": "2023-03-25",
+      "startTime": {
+        "time": "09:00"
+      },
+      "maxJoinNum": 6,
+      "costPerPerson": 3500,
+      "paymentMethod": "各付各的",
+      "tags": [
+        "潛水",
+        "墾丁",
+        "海洋生態",
+        "初學者",
+        "戶外活動"
+      ],
+      "groupId": "",
+      "updateDate": "2023-03-11",
+      "isCancelled": false
+    },
+    {
+      "title": "運動中心打桌球",
+      "description": "一起來打桌球",
+      "city": "苗栗市",
+      "district": "三義鄉",
+      "address": "苗栗縣苑裡鎮3581鄰1之1號",
+      "location": [
+        24.392174,
+        120.720978
+      ],
+      "date": "2023-04-13",
+      "startTime": {
+        "time": "06:00"
+      },
+      "paymentMethod": "各付各的",
+      "costPerPerson": 1000,
+      "joinNum": {
+        "number": 12
+      },
+      "newDate": "03/08",
+      "dayOfWeekText": "星期三",
+      "userId": "20",
+      "tags": [
+        "網球",
+        "羽毛球",
+        "足球",
+        "拳擊",
+        "慢跑"
+      ],
+      "mainImg": "",
+      "imgs": [],
+      "content": "<p><span style=\"background-color: rgb(216, 191, 178);\"><img src=\"data:image/png;base64,如果你正在尋找一個有趣且能夠鍛煉身體的運動項目，那麼打羽球就是你不容錯過的選擇。</span></p><p><span style=\"background-color: rgb(216, 191, 178);\">這項運動不僅能夠鍛鍊身體，還能增強腦力、協調能力和精細動作技巧。</span></p><p><br></p><p><span style=\"background-color: rgb(216, 191, 178);\">我們的揪團將會到一個高素質的羽球場，提供完善的設施。任何人都能在這裡找到適合自己的運動水平的對手與夥伴</span></p>",
+      "maxJoinNum": 12,
+      "groupId": "",
+      "updateDate": 1678178756074,
+      "isCancelled": true,
+      "id": 15
+    },
+    {
+      "title": "花蓮清水斷崖獨木舟",
+      "description": "一起划獨木舟",
+      "city": "花蓮縣",
+      "district": "秀林鄉",
+      "address": "972花蓮縣秀林鄉台9丁線",
+      "location": [
+        24.2189,
+        121.692574
+      ],
+      "date": "2023-03-15",
+      "startTime": {
+        "time": "06:00"
+      },
+      "paymentMethod": "各付各的",
+      "costPerPerson": 1000,
+      "joinNum": {
+        "number": 12
+      },
+      "newDate": "03/15",
+      "dayOfWeekText": "星期三",
+      "userId": "20",
+      "tags": [
+        "獨木舟",
+        "戶外活動",
+        "清水斷崖",
+        "花蓮",
+        "水上活動"
+      ],
+      "mainImg": "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity15.jpg?raw=true",
+      "imgs": [
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity1501.jpg?raw=true",
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity1502.jpg?raw=true",
+        "https://github.com/Key0329/JoinSport/blob/main/src/assets/images/activities/activity1503.jpg?raw=true"
+      ],
+      "content": "<p><span style=\"background-color: rgb(216, 191, 178);\">如果你正在尋找一個有趣且能夠鍛煉身體的運動項目，那麼打羽球就是你不容錯過的選擇。</span></p><p><span style=\"background-color: rgb(216, 191, 178);\">這項運動不僅能夠鍛鍊身體，還能增強腦力、協調能力和精細動作技巧。</span></p><p><br></p><p><span style=\"background-color: rgb(216, 191, 178);\">我們的揪團將會到一個高素質的羽球場，提供完善的設施。任何人都能在這裡找到適合自己的運動水平的對手與夥伴</span></p>",
+      "maxJoinNum": 12,
+      "groupId": "",
+      "updateDate": 1678202232719,
+      "isCancelled": true,
+      "id": 16
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "userId": 1,
+      "activityId": 7,
+      "isCancelled": false
+    },
+    {
+      "id": 2,
+      "userId": 6,
+      "activityId": 6,
+      "isCancelled": false
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "activityId": 11,
+      "isCancelled": false
+    },
+    {
+      "id": 4,
+      "userId": 3,
+      "activityId": 8,
+      "isCancelled": false
+    },
+    {
+      "id": 5,
+      "userId": 8,
+      "activityId": 1,
+      "isCancelled": false
+    },
+    {
+      "id": 6,
+      "userId": 5,
+      "activityId": 5,
+      "isCancelled": false
+    },
+    {
+      "id": 7,
+      "userId": 2,
+      "activityId": 11,
+      "isCancelled": false
+    },
+    {
+      "id": 8,
+      "userId": 7,
+      "activityId": 3,
+      "isCancelled": false
+    },
+    {
+      "id": 9,
+      "userId": 4,
+      "activityId": 11,
+      "isCancelled": false
+    },
+    {
+      "id": 10,
+      "userId": 5,
+      "activityId": 12,
+      "isCancelled": false
+    },
+    {
+      "id": 11,
+      "userId": 2,
+      "activityId": 3,
+      "isCancelled": false
+    },
+    {
+      "id": 12,
+      "userId": 1,
+      "activityId": 14,
+      "isCancelled": false
+    },
+    {
+      "id": 13,
+      "userId": 8,
+      "activityId": 10,
+      "isCancelled": false
+    },
+    {
+      "id": 14,
+      "userId": 7,
+      "activityId": 8,
+      "isCancelled": false
+    },
+    {
+      "id": 15,
+      "userId": 4,
+      "activityId": 5,
+      "isCancelled": false
+    },
+    {
+      "id": 16,
+      "userId": 1,
+      "activityId": 2,
+      "isCancelled": false
+    },
+    {
+      "id": 17,
+      "userId": 2,
+      "activityId": 2,
+      "isCancelled": false
+    },
+    {
+      "id": 18,
+      "userId": 3,
+      "activityId": 2,
+      "isCancelled": false
+    },
+    {
+      "id": 19,
+      "userId": 5,
+      "activityId": 7,
+      "isCancelled": false
+    },
+    {
+      "id": 20,
+      "userId": 10,
+      "activityId": 6,
+      "isCancelled": false
+    },
+    {
+      "id": 21,
+      "userId": 9,
+      "activityId": 11,
+      "isCancelled": false
+    },
+    {
+      "id": 22,
+      "userId": 4,
+      "activityId": 14,
+      "isCancelled": false
+    },
+    {
+      "id": 23,
+      "userId": 8,
+      "activityId": 3,
+      "isCancelled": false
+    },
+    {
+      "id": 24,
+      "userId": 1,
+      "activityId": 8,
+      "isCancelled": false
+    },
+    {
+      "id": 25,
+      "userId": 7,
+      "activityId": 9,
+      "isCancelled": false
+    },
+    {
+      "id": 26,
+      "userId": 6,
+      "activityId": 7,
+      "isCancelled": false
+    },
+    {
+      "id": 27,
+      "userId": 3,
+      "activityId": 5,
+      "isCancelled": false
+    },
+    {
+      "id": 28,
+      "userId": 17,
+      "activityId": 11,
+      "isCancelled": false
+    },
+    {
+      "id": 29,
+      "userId": 5,
+      "activityId": 14,
+      "isCancelled": false
+    },
+    {
+      "id": 30,
+      "userId": 7,
+      "activityId": 6,
+      "isCancelled": false
+    },
+    {
+      "id": 31,
+      "userId": 19,
+      "activityId": 3,
+      "isCancelled": false
+    },
+    {
+      "id": 32,
+      "userId": 20,
+      "activityId": 3,
+      "isCancelled": true
+    },
+    {
+      "id": 33,
+      "userId": 20,
+      "activityId": 4,
+      "isCancelled": false
+    },
+    {
+      "id": 34,
+      "userId": 20,
+      "activityId": 5,
+      "isCancelled": true
+    },
+    {
+      "id": 35,
+      "userId": 20,
+      "activityId": 6,
+      "isCancelled": false
+    },
+    {
+      "id": 36,
+      "userId": 20,
+      "activityId": 7,
+      "isCancelled": true
+    },
+    {
+      "userId": 20,
+      "activityId": 12,
+      "isCancelled": false,
+      "id": 37
+    },
+    {
+      "userId": 21,
+      "activityId": 16,
+      "isCancelled": true,
+      "id": 38
+    },
+    {
+      "userId": 21,
+      "activityId": 2,
+      "isCancelled": true,
+      "id": 39
+    },
+    {
+      "userId": 21,
+      "activityId": 16,
+      "isCancelled": true,
+      "id": 40
+    },
+    {
+      "userId": 21,
+      "activityId": 16,
+      "isCancelled": false,
+      "id": 41
+    },
+    {
+      "userId": 20,
+      "activityId": 5,
+      "isCancelled": false,
+      "id": 42
+    },
+    {
+      "userId": 18,
+      "activityId": 14,
+      "isCancelled": false,
+      "id": 43
+    },
+    {
+      "userId": 19,
+      "activityId": 14,
+      "isCancelled": false,
+      "id": 44
+    },
+    {
+      "userId": 7,
+      "activityId": 14,
+      "isCancelled": false,
+      "id": 45
+    },
+    {
+      "userId": 1,
+      "activityId": 9,
+      "isCancelled": false,
+      "id": 46
+    },
+    {
+      "userId": 2,
+      "activityId": 9,
+      "isCancelled": false,
+      "id": 47
+    },
+    {
+      "userId": 4,
+      "activityId": 9,
+      "isCancelled": false,
+      "id": 48
+    },
+    {
+      "userId": 17,
+      "activityId": 9,
+      "isCancelled": false,
+      "id": 49
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "",
+      "address": ""
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "userId": "9",
+      "activityId": "3",
+      "isCancelled": false,
+      "content": "請問需要場地費嗎?",
+      "updateTime": 1678680059694
+    },
+    {
+      "id": 2,
+      "userId": "4",
+      "activityId": "3",
+      "isCancelled": false,
+      "content": "早安阿",
+      "updateTime": 1678695259694
+    },
+    {
+      "id": 3,
+      "userId": "6",
+      "activityId": "3",
+      "isCancelled": false,
+      "content": "午安",
+      "updateTime": 1678709300000
+    },
+    {
+      "id": 4,
+      "userId": "14",
+      "activityId": "7",
+      "isCancelled": false,
+      "content": "妳好?",
+      "updateTime": 1678709300000
+    },
+    {
+      "userId": "20",
+      "activityId": 7,
+      "content": "YOYOYO",
+      "updateTime": 1678709362456,
+      "isCancelled": false,
+      "id": 5
+    }
+  ],
+  "messageReply": [
+    {
+      "id": 1,
+      "userId": "20",
+      "messageId": "1",
+      "content": "不用喔",
+      "updateTime": 1678709400000,
+      "isCancelled": false
+    },
+    {
+      "userId": "20",
+      "messageId": 2,
+      "content": "123",
+      "updateTime": 1678868255307,
+      "isCancelled": false,
+      "id": 2
+    }
+  ],
+  "sports": [
+    "爬山",
+    "衝浪",
+    "攀岩",
+    "抱石",
+    "游泳",
+    "划船",
+    "田徑",
+    "籃球",
+    "拳擊",
+    "自行車",
+    "射箭",
+    "橄欖球",
+    "高爾夫球",
+    "騎術",
+    "手球",
+    "曲棍球",
+    "柔道",
+    "卡巴迪",
+    "直排輪",
+    "空手道",
+    "跑步",
+    "跳水",
+    "桌球",
+    "射擊",
+    "滑水",
+    "足球",
+    "棒球",
+    "潛水",
+    "羽毛球",
+    "排球",
+    "舉重",
+    "溜冰",
+    "跆拳道",
+    "網球",
+    "滑板",
+    "瑜珈",
+    "健走",
+    "鐵人三項",
+    "滑雪",
+    "水上活動",
+    "戶外運動",
+    "室內運動",
+    "體操",
+    "國標舞",
+    "街舞",
+    "劍道",
+    "泰拳",
+    "自由搏擊",
+    "壁球"
+  ],
+  "bookmarks": [
+    {
+      "id": 1,
+      "userId": 1,
+      "activityId": 2,
+      "isCancelled": false
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "activityId": 8,
+      "isCancelled": false
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "activityId": 11,
+      "isCancelled": true
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "activityId": 14,
+      "isCancelled": false
+    },
+    {
+      "userId": 20,
+      "activityId": 11,
+      "isCancelled": false,
+      "id": 5
+    },
+    {
+      "userId": 20,
+      "activityId": 5,
+      "isCancelled": false,
+      "id": 7
+    },
+    {
+      "userId": 20,
+      "activityId": 4,
+      "isCancelled": false,
+      "id": 8
+    },
+    {
+      "userId": 20,
+      "activityId": 7,
+      "isCancelled": false,
+      "id": 9
+    },
+    {
+      "userId": 20,
+      "activityId": 8,
+      "isCancelled": false,
+      "id": 10
+    },
+    {
+      "userId": 20,
+      "activityId": 3,
+      "isCancelled": false,
+      "id": 11
+    },
+    {
+      "userId": 20,
+      "activityId": 10,
+      "isCancelled": true,
+      "id": 12
+    }
+  ]
+}
